@@ -1,4 +1,4 @@
-# CapstoneProject
+# CapstoneProject - Sprint 1
 
 1. Planned the project, and created a wireframe* of the app 
   -- Included in the wireframe
